@@ -1,0 +1,10 @@
+{
+    "require": {
+        "google/apiclient": "~2.0",
+        "php-amqplib/php-amqplib": "2.6.*",
+        "phpFastCache/phpFastCache": "^5.0",
+        "mongodb/mongodb": "^1.1",
+        "monolog/monolog": "^1.22",
+        "chellem/youtube-downloader": "^1.0"
+    }
+}
